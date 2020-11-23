@@ -22,20 +22,21 @@ __[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](
 
 <img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/UI&nbsp;Frameworks-React,&nbsp;Gatsby,&nbsp;Angular-informational?style=flat&color=405b80)
 
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Tools-AdobeXD,&nbsp;Figma,&nbsp;Photoshop,&nbsp;Canva,&nbsp;Sketching-informational?style=flat&color=405b80)
+<img src="./images/adobexd.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Tools-AdobeXD,&nbsp;Figma,&nbsp;Photoshop,&nbsp;Canva,&nbsp;Sketching-informational?style=flat&color=405b80)
 
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Scripting&nbsp;Languages-JavaScript,&nbsp;Java,&nbsp;Python-informational?style=flat&color=405b80)
+<img src="./images/javascript.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Scripting&nbsp;Languages-JavaScript,&nbsp;Java,&nbsp;Python-informational?style=flat&color=405b80)
 
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Languages-HTML,&nbsp;CSS-informational?style=flat&color=405b80)
+<img src="./images/csswizardry.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Languages-HTML,&nbsp;CSS-informational?style=flat&color=405b80)
 
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/IDEs-Visual&nbsp;Studio&nbsp;Code,&nbsp;Eclipse&nbsp;IntelliJ-informational?style=flat&color=405b80)
+<img src="./images/visualstudiocode.svg" width="20px">&nbsp;![](https://img.shields.io/badge/IDEs-Visual&nbsp;Studio&nbsp;Code,&nbsp;Eclipse,&nbsp;IntelliJ-informational?style=flat&color=405b80)
 
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Operating&nbsp;Systems-Mac&nbsp;OS,&nbsp;Linux,&nbsp;Windows-informational?style=flat&color=405b80)
+<img src="./images/linux.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Operating&nbsp;Systems-Mac&nbsp;OS,&nbsp;Linux,&nbsp;Windows-informational?style=flat&color=405b80)
 
 
 
 
 *Other Hobbies*
+
 I'm a connoisseur of music, and a part-time bassist. Presently I'm teaching myself music theory and things like how to produce tracks using a DAW. 
 
 ### Ways to reach me 📫
