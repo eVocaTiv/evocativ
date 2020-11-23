@@ -52,6 +52,7 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2].
 ### GitHub Stats
 
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=evocativ&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evocativ&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
 
 ### Latest works 💬
