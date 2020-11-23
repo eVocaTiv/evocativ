@@ -1,7 +1,5 @@
 ### Glad you're here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=evocativ&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evocativ&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
+<img src="./images/GitHub Logo.png" text-align="center">
 
 ### About me 😄
 
@@ -50,6 +48,11 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/kunal-dewan-bb0a67161/
+
+### GitHub Stats
+
+![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=evocativ&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evocativ&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
 
 ### Latest works 💬
 
