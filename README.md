@@ -1,5 +1,5 @@
 ### Glad you're here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="./images/GitHub Logo.png" text-align="center">
+<img src="./images/GitHub Logo.png" text-align="center"> 
 
 ### About me 😄
 
