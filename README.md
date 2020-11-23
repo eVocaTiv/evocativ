@@ -1,6 +1,6 @@
 ### Glad you're here!
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=evocativ&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evocativ&theme=tokyonight&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evocativ&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
 
 
 ### About me 😄
@@ -27,5 +27,5 @@ Don't hesitate to contact me on my
 
 ### Latest works 💬
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=mylandingpage)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=bpgcremembrance)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=mylandingpage&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=bpgc-remembrance&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
