@@ -3,7 +3,7 @@
 
 ### About me 😄
 
-I'm a Front-End Engineer, and a User Experience Design enthusiast. I lately find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
+I'm a Front-End Engineer, and a User Experience Design enthusiast. Lately, find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
 
 ### Skills & Interests ⚡
 
@@ -11,10 +11,10 @@ I'm a Front-End Engineer, and a User Experience Design enthusiast. I lately find
 - I have a solid experience in working with React and have also scratched the surface of other UI libraries like Angular and Vue. 
 - I have acquired basic knowledge of UX principles, wireframing and prototyping using Adobe XD / Figma, editing and layering using Photoshop and preparing case studies from gathering requirements, creating user personas to documenting focus-group testing and user interviews.
 
-In addition to my interests as a developer, I regularly follow design podcasts, and look for ways to expand my design thinking skills - such as through reading books (finished *"Don't Make Me Think"* by Steve Krug and *"Sprint"* by Jake Knapp, currently reading *"Lean UX"* by Jeff Gothelf). Moreover, I'm a fan of online courses and have recently completed some on UX fundamentals. Lastly, I also read blogs and documentation on industrial practices. 
+In addition to my interests as a developer, I regularly follow design podcasts, and look for ways to expand my design thinking skills - such as through reading books (finished *"Don't Make Me Think"* by Steve Krug and *"Sprint"* by Jake Knapp, currently reading *"Lean UX"* by Jeff Gothelf). Moreover, I'm a fan of online courses and have recently completed some on UX fundamentals. Lastly, I also like to read blogs and documentation on industrial practices. 
 
 Some of my favourite resources are -
-__[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](https://www.nngroup.com)__. I consider myself fortunate to be surrounded by extremely talented designers and developers at **Amazon**, from whom I learn new things everyday.
+__[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](https://www.nngroup.com)__. I consider myself fortunate to be surrounded by extremely talented designers and developers at **Amazon**, from whom I learn new things first-hand everyday .
 
 *Summary of my skills*
 
@@ -39,15 +39,7 @@ I'm a connoisseur of music, and a part-time bassist. Presently I'm teaching myse
 
 ### Ways to reach me 📫
 
-You can find me on LinkedIn [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/kunal-dewan-bb0a67161/
+You can find me on __[LinkedIn](https://www.linkedin.com/in/kunal-dewan-bb0a67161/)__
 
 ### GitHub Stats
 
