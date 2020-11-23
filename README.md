@@ -24,11 +24,11 @@ __[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](
 
 <img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Tools-AdobeXD,&nbsp;Figma,&nbsp;Photoshop,&nbsp;Canva,&nbsp;Sketching-informational?style=flat&color=405b80)
 
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Languages-JavaScript,&nbsp;Java,&nbsp;Python-informational?style=flat&color=405b80)
+<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Scripting&nbsp;Languages-JavaScript,&nbsp;Java,&nbsp;Python-informational?style=flat&color=405b80)
+
+<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Languages-HTML,&nbsp;CSS-informational?style=flat&color=405b80)
 
 <img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/IDEs-Visual&nbsp;Studio&nbsp;Code,&nbsp;Eclipse&nbsp;IntelliJ-informational?style=flat&color=405b80)
-
-<img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/UI&nbsp;Design-HTML,&nbsp;CSS-informational?style=flat&color=405b80)
 
 <img src="./images/react.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Operating&nbsp;Systems-Mac&nbsp;OS,&nbsp;Linux,&nbsp;Windows-informational?style=flat&color=405b80)
 
@@ -40,7 +40,7 @@ I'm a connoisseur of music, and a part-time bassist. Presently I'm teaching myse
 
 ### Ways to reach me 📫
 
-You can find me on my LinkedIn [![LinkedIn][2.2]][2].
+You can find me on LinkedIn [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
