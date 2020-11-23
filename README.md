@@ -1,8 +1,7 @@
-### Glad you're here!
+### Glad you're here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=evocativ&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evocativ&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
-
 
 ### About me 😄
 
@@ -24,7 +23,15 @@ I'm a connoisseur of music, and a part-time bassist. Presently I'm teaching myse
 
 ### Ways to reach me 📫
 
-Don't hesitate to contact me on my 
+Don't hesitate to contact me on my [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/kunal-dewan-bb0a67161/
 
 ### Latest works 💬
 
