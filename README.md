@@ -13,7 +13,7 @@ I'm a Front-End Engineer, and a User Experience Design enthusiast. I lately find
 - I have a solid experience in working with React and have also scratched the surface of other UI libraries like Angular and Vue. 
 - I have acquired basic knowledge of UX principles, wireframing and prototyping using Adobe XD / Figma, editing and layering using Photoshop and preparing case studies from gathering requirements, creating user personas to documenting focus-group testing and user interviews.
 
-In addition to interests as a developer, I regularly follow design podcasts, and look for ways to expand my design thinking skills - such as through reading books (finished *"Don't Make Me Think"* by Steve Krug and *"Sprint"* by Jake Knapp), currently reading *"Lean UX"* by Jeff Gothelf. Moreover, I'm a proponent of online courses and have recently completed some on UX fundamentals. Lastly, I also read blogs and documentation on industrial practices. 
+In addition to interests as a developer, I regularly follow design podcasts, and look for ways to expand my design thinking skills - such as through reading books (finished *"Don't Make Me Think"* by Steve Krug and *"Sprint"* by Jake Knapp), currently reading *"Lean UX"* by Jeff Gothelf. Moreover, I'm a fan of online courses and have recently completed some on UX fundamentals. Lastly, I also read blogs and documentation on industrial practices. 
 
 Some of my favourite resources are -
 __[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](https://www.nngroup.com)__. I consider myself fortunate to be surrounded by extremely talented designers and developers at **Amazon**, from whom I learn new things everyday.
@@ -53,5 +53,5 @@ You can find me on LinkedIn [![LinkedIn][2.2]][2].
 
 ### Latest works 💬
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=mylandingpage&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=bpgc-remembrance&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=mylandingpage&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)](https://github.com/eVocaTiv/MyLandingPage)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=bpgc-remembrance&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)](https://github.com/eVocaTiv/BPGC-Remembrance)
