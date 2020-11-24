@@ -41,7 +41,7 @@ I'm a connoisseur of music, and a part-time bassist. Presently I'm teaching myse
 
 You can find me on __[LinkedIn](https://www.linkedin.com/in/kunal-dewan-bb0a67161/)__
 
-### GitHub Stats
+### GitHub stats
 
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=evocativ&hide=contribs,issues&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80&include_all_commits=true)
 
