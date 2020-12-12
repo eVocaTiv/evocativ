@@ -3,7 +3,7 @@
 
 ### About me 😄
 
-I'm a Front-End Engineer, and a User Experience Design enthusiast. Lately, find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
+I'm a Front-End Engineer, and a User Experience Design enthusiast. Lately, I find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
 
 ### Skills & Interests ⚡
 
