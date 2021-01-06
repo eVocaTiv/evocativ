@@ -50,4 +50,5 @@ You can find me on __[LinkedIn](https://www.linkedin.com/in/kunal-dewan-bb0a6716
 ### Latest works 💬
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=mylandingpage&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)](https://github.com/eVocaTiv/MyLandingPage)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=evocativ&repo=bpgc-remembrance&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,00cba4,405b80)](https://github.com/eVocaTiv/BPGC-Remembrance) 
