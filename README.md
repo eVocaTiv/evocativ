@@ -22,7 +22,7 @@ __[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](
 
 <img src="./images/adobexd.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Tools-AdobeXD,&nbsp;Figma,&nbsp;Photoshop,&nbsp;Canva,&nbsp;Sketching-informational?style=flat&color=405b80)
 
-<img src="./images/javascript.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Scripting&nbsp;Languages-JavaScript,&nbsp;Java,&nbsp;Python-informational?style=flat&color=405b80)
+<img src="./images/javascript.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Scripting&nbsp;Languages-JavaScript,&nbsp;Java,&nbsp;Python,&nbsp;C++-informational?style=flat&color=405b80)
 
 <img src="./images/csswizardry.svg" width="20px">&nbsp;![](https://img.shields.io/badge/Design&nbsp;Languages-HTML,&nbsp;CSS-informational?style=flat&color=405b80)
 
