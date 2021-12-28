@@ -10,7 +10,7 @@ I'm a Front-End Engineer, and a User Experience Design enthusiast. Lately, I fin
 - I'm well-versed in building optimized web applications using JavaScript, CSS and HTML.
 - I have experience in working with React and have also scratched the surface of other UI libraries like Gastby, Angular and Vue. 
 - I have acquired basic knowledge of UX principles, wireframing and prototyping using Adobe XD / Figma, editing and layering using Photoshop and preparing case studies from gathering requirements, creating user personas to documenting focus-group testing and user interviews.
-- I'm interested in working with high-scale design systems and am a contributor of global Amazon Advertising UX team.
+- Amongest other things in front-end, I'm interested in working with high-scale design systems and am a contributor of global Amazon Advertising UX team.
 
 In addition to my interests as a developer, I regularly follow design podcasts, and look for ways to expand my design thinking skills - such as through reading books (finished *"Don't Make Me Think"* by Steve Krug and *"Sprint"* by Jake Knapp, currently reading *"Lean UX"* by Jeff Gothelf). Moreover, I'm a fan of online courses and have recently completed some on UX fundamentals. Lastly, I also like to read blogs and documentation on industrial practices. 
 
