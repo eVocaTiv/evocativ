@@ -3,7 +3,7 @@
 
 ### About me 😄
 
-I'm a Front-End Engineer, and a User Experience Design enthusiast. Lately, I find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
+I'm a Front-End Engineer, with a Master's degree in User Experience Design. Lately, I find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
 
 ### Skills & Interests ⚡
 
@@ -15,7 +15,7 @@ I'm a Front-End Engineer, and a User Experience Design enthusiast. Lately, I fin
 In addition to my interests as a developer, I regularly follow design podcasts, and look for ways to expand my design thinking skills - such as through reading books (finished *"Don't Make Me Think"* by Steve Krug and *"Sprint"* by Jake Knapp, currently reading *"Lean UX"* by Jeff Gothelf). Moreover, I'm a fan of online courses and have recently completed some on UX fundamentals. Lastly, I also like to read blogs and documentation on industrial practices. 
 
 Some of my favourite resources are -
-__[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](https://www.nngroup.com)__. I consider myself fortunate to be surrounded by extremely talented designers and developers at **Amazon**, from whom I learn new things first-hand everyday .
+__[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](https://www.nngroup.com)__. I consider myself fortunate to be surrounded by extremely talented designers and developers at **Block**, from whom I learn new things first-hand everyday .
 
 *Summary of my skills*
 
