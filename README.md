@@ -8,7 +8,7 @@ I'm a Front-End Engineer, with a Master's degree in User Experience Design. Late
 ### Skills & Interests ⚡
 
 - I'm well-versed in building optimized web applications using JavaScript, CSS and HTML.
-- I have experience in working with React and have also scratched the surface of other UI libraries like Gastby, Angular and Vue. 
+- I have experience in working with React and have also scratched the surface of other UI libraries like Gatsby, Angular and Vue. 
 - I have acquired basic knowledge of UX principles, wireframing and prototyping using Adobe XD / Figma, editing and layering using Photoshop and preparing case studies from gathering requirements, creating user personas to documenting focus-group testing and user interviews.
 - Amongst other things in front-end, I'm interested in working with high-scale design systems and am a contributor of global Amazon Advertising UX team.
 
