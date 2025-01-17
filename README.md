@@ -36,7 +36,7 @@ __[Google Design](https://www.design.google)__ and __[The Nielsen Norman Group](
 
 *Other Hobbies*
 
-I'm a connoisseur of music, and a part-time bassist. Presently I'm teaching myself music theory and things like how to produce tracks using a DAW. 
+I'm a connoisseur of music, and a part-time bassist. I'm also fascinated by Korean culture and have been learning Korean!
 
 ### Ways to reach me 📫
 
