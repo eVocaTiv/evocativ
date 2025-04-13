@@ -3,7 +3,7 @@
 
 ### About me 😄
 
-I'm a Front-End Engineer, with a Master's degree in User Experience Design. Lately, I find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
+I'm a Front-End Engineer, with a Master's in User Experience. Lately, I find myself tinkering with various web libraries, human-centric design patterns, animations, and all sorts of related stuff, including studying case studies to enhance user experience. Feel free to drop by if you would like to discuss on any topic, or just to say hi!
 
 ### Skills & Interests ⚡
 
